@@ -1,0 +1,6 @@
+F:\Demo\AsyncAwait\C#并发编程经典实例\Async\Chapter1\bin\Debug\Chapter1.exe.config
+F:\Demo\AsyncAwait\C#并发编程经典实例\Async\Chapter1\bin\Debug\Chapter1.exe
+F:\Demo\AsyncAwait\C#并发编程经典实例\Async\Chapter1\bin\Debug\Chapter1.pdb
+F:\Demo\AsyncAwait\C#并发编程经典实例\Async\Chapter1\obj\Debug\Chapter1.csprojResolveAssemblyReference.cache
+F:\Demo\AsyncAwait\C#并发编程经典实例\Async\Chapter1\obj\Debug\Chapter1.exe
+F:\Demo\AsyncAwait\C#并发编程经典实例\Async\Chapter1\obj\Debug\Chapter1.pdb
